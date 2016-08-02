@@ -9,4 +9,4 @@ __Super Poder__ = Voar
 Características:
     -Cabelo escuro
     -Médio porte
-
+    -Olhos castanhos
